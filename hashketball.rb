@@ -5,7 +5,7 @@ def game_hash
       :colors => ["Black", "White"], 
       :players => [
         {:player_name => "Alan Anderson",
-         :number  => 0,
+         :number => 0,
          :shoe => 16,
          :points => 22,
          :rebounds => 12,
@@ -15,7 +15,7 @@ def game_hash
          :slam_dunks => 1
         },
         {:player_name => "Reggie Evans",
-         :number  => 30,
+         :number => 30,
          :shoe => 14,
          :points => 12,
          :rebounds => 12,
@@ -25,7 +25,7 @@ def game_hash
          :slam_dunks => 7
         },
         {:player_name => "Brook Lopez",
-         :number  => 11,
+         :number => 11,
          :shoe => 17,
          :points => 17,
          :rebounds => 19,
@@ -35,7 +35,7 @@ def game_hash
          :slam_dunks => 15
         },
         {:player_name => "Mason Plumlee",
-         :number  => 1,
+         :number => 1,
          :shoe => 19,
          :points => 26,
          :rebounds => 11,
@@ -44,10 +44,10 @@ def game_hash
          :blocks => 8,
          :slam_dunks => 5
         },
-        {:player_name =>
-         :number  =>
-         :shoe =>
-         :points =>
+        {:player_name => "Jason Terry",
+         :number => 31,
+         :shoe => 15,
+         :points => 19,
          :rebounds =>
          :assists =>
          :steals =>
